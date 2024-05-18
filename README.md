@@ -24,7 +24,7 @@ We welcome contributions from individuals with diverse backgrounds and expertise
 
 # Getting Started
 
-To get started, check out our [contribution guidelines](Contributing-to-OpenMMT) and explore the [issues](https://github.com/chevannanayakkara/openmmt/issues) section for current tasks and discussions. 
+To get started, check out our [contribution guidelines](CONTRIBUTING.md) and explore the [issues](https://github.com/chevannanayakkara/openmmt/issues) section for current tasks and discussions. 
 
 # Our Commitment
 
