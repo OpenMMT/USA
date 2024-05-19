@@ -24,7 +24,18 @@ We welcome contributions from individuals with diverse backgrounds and expertise
 
 # Getting Started
 
-To get started, check out our [contribution guidelines](CONTRIBUTING.md) and explore the [issues](https://github.com/chevannanayakkara/openmmt/issues) section for current tasks and discussions. 
+To get started, check out our [contribution guidelines](CONTRIBUTING.md) and explore the [issues](https://github.com/chevannanayakkara/OpenMMT/issues) section for current tasks and discussions. 
+
+## Getting Help
+
+If you need help or have any questions, join our [GitHub Discussions](https://github.com/chevannanayakkara/OpenMMT/discussions). You can use discussions to:
+- Ask questions about the project
+- Share ideas for new features or improvements
+- Discuss the implementation of specific features
+- Report general issues or feedback
+
+To get started, click on the "Discussions" tab in the repository and join the conversation!
+
 
 # Our Commitment
 
