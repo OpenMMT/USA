@@ -1,5 +1,7 @@
-
 # Model Detail
+
+## Description
+This document details an economic simulation model used to analyze the relationships and dynamics between various economic variables. The model aims to simulate the impact of federal taxes, federal spending, national debt, and other key economic factors on inflation, consumer behavior, and firm activities. By incorporating various assumptions, variables, and parameters, the model provides a framework for understanding and predicting economic outcomes.
 
 ## Model Assumptions
 
